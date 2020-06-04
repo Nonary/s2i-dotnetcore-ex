@@ -1,6 +1,5 @@
 #!/bin/bash
 
-yum install -y nginx
 set -e
 # Include filenames beginning with a '.' when installing the application source code.
 shopt -s dotglob
