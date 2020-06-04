@@ -1,2 +1,3 @@
 # https://kernel.org/pub/software/scm/git/docs/gitattributes.html#_end_of_line_conversion
 * text=auto
+app/.s2i/bin/assemble eol=lf
